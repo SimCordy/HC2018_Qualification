@@ -13,5 +13,7 @@ b_should_be_easy | 176852.0
 c_no_hurry | 8122038.0
 d_metropolis | 3578152.0
 e_high_bonus | 21164099.0
+Total Score | 33041141
+------------|---------
 
 All the scores has been computed by the help of this project: https://github.com/vitowalteranelli/Google-HashCode-Playground .
