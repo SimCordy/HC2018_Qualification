@@ -1,4 +1,4 @@
-#Self-driving rides (Hash Code qualification round 2018)
+# Self-driving rides (Hash Code qualification round 2018)
 
 This is a simple solution that solve the problem statement of the Google competition Hash Code 2018.
 The source code is written in C#.
